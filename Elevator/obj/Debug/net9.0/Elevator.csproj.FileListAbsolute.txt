@@ -1,0 +1,14 @@
+/Users/mramosalarcon/GitHub/Elevator/Elevator/bin/Debug/net9.0/Elevator
+/Users/mramosalarcon/GitHub/Elevator/Elevator/bin/Debug/net9.0/Elevator.deps.json
+/Users/mramosalarcon/GitHub/Elevator/Elevator/bin/Debug/net9.0/Elevator.runtimeconfig.json
+/Users/mramosalarcon/GitHub/Elevator/Elevator/bin/Debug/net9.0/Elevator.dll
+/Users/mramosalarcon/GitHub/Elevator/Elevator/bin/Debug/net9.0/Elevator.pdb
+/Users/mramosalarcon/GitHub/Elevator/Elevator/obj/Debug/net9.0/Elevator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mramosalarcon/GitHub/Elevator/Elevator/obj/Debug/net9.0/Elevator.AssemblyInfoInputs.cache
+/Users/mramosalarcon/GitHub/Elevator/Elevator/obj/Debug/net9.0/Elevator.AssemblyInfo.cs
+/Users/mramosalarcon/GitHub/Elevator/Elevator/obj/Debug/net9.0/Elevator.csproj.CoreCompileInputs.cache
+/Users/mramosalarcon/GitHub/Elevator/Elevator/obj/Debug/net9.0/Elevator.dll
+/Users/mramosalarcon/GitHub/Elevator/Elevator/obj/Debug/net9.0/refint/Elevator.dll
+/Users/mramosalarcon/GitHub/Elevator/Elevator/obj/Debug/net9.0/Elevator.pdb
+/Users/mramosalarcon/GitHub/Elevator/Elevator/obj/Debug/net9.0/Elevator.genruntimeconfig.cache
+/Users/mramosalarcon/GitHub/Elevator/Elevator/obj/Debug/net9.0/ref/Elevator.dll
